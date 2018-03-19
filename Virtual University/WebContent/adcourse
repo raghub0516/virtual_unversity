@@ -1,0 +1,19 @@
+<%@ include file="imp.html" %>
+
+<html>
+<head>
+<title>Administrator Page</title>
+</head>
+<font color="#ff3366">
+<body text="blue" bgColor="white">
+<h2> <center> Course Information </center></h2>
+</font>
+<br><br>
+<a href=adminadcour.jsp>Insert Course</a>
+<br><br>
+<a href=first1jsp.jsp>Delete Course</a>
+<br><br>
+<a href=first1jsp.jsp>Update Course</a>
+
+</body>
+</html>
